@@ -1,0 +1,31 @@
+_repo: L-assassinat-du-pont-rouge_13808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barbara, Charles
+    alias: Barbara, Louis-Charles
+    birthdate: 1817
+    deathdate: 1866
+    gutenberg_agent_id: '5230'
+    url: http://www.gutenberg.org/2009/agents/5230
+    wikipedia: http://fr.wikipedia.org/wiki/Charles_Barbara
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13808'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Young men -- Fiction'
+title: L'assassinat du pont-rouge
+url: http://www.gutenberg.org/ebooks/13808
